@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "AWS",
+      "description": "Coud Expert",
+      "quantity" : 10,
+      "price" : 120,
+      "category" : "books"
+    }
+    
+  ]
+}
